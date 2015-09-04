@@ -1,6 +1,6 @@
 # EditTextFloatingLabelsWithSnackbar-example
 EditText Floating Labels with Snack bar --Super Simple Example    
-![alt tag](https://github.com/JianhuiZhu/EditTextFloatingLabelsWithSnackbar-example/blob/master/edittext_floating_label_with_snackbar.gif)    
+![alt tag](https://github.com/JianhuiZhu/EditTextFloatingLabelsWithSnackbar-example/blob/master/example.gif)
     
 #Library    
       compile 'com.android.support:design:22.2.0'
